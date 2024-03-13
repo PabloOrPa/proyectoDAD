@@ -15,7 +15,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 public class ServletLogin extends HttpServlet{
 	
-	private static final long serialVersionUID = -620990823;
+	private static final long serialVersionUID = -620990853;
 	
 	private Map<String, String> userPass;
 	
